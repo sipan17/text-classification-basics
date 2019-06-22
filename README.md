@@ -6,13 +6,13 @@ The tutorial shows how to set a good baseline with simple algorithms like [Naive
 
 You will need to run 
 ```
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 for dependencies except fasttext and for fasttext
 
 ```
-$ git clone https://github.com/facebookresearch/fastText.git
-$ cd fastText
-$ pip install .
+git clone https://github.com/facebookresearch/fastText.git
+cd fastText
+pip install .
 ```
