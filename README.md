@@ -4,12 +4,12 @@ The tutorial shows how to set a good baseline with simple algorithms like [Naive
 
 ## Requirements
 
-You will need to run for dependencies except fasttext
+You will need to run 
 ```
 pip install -r requirements.txt
 ```
 
-and for fasttext
+for dependencies except fasttext and for fasttext
 
 ```
 $ git clone https://github.com/facebookresearch/fastText.git
