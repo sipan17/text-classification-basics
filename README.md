@@ -1,6 +1,6 @@
 # Text Classification Tutorial
 
-The tutorial shows how to set a good baseline with simple algorithms like [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier), [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression) and [fasttext](https://fasttext.cc/) on AG news dataset. The Data can be found in ```./data``` folder.
+The tutorial shows how to set a good baseline with simple algorithms like [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier), [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression) and [fasttext](https://fasttext.cc/) on [AG news dataset](https://www.di.unipi.it/~gulli/AG_corpus_of_news_articles.html). The Data can be found in ```./data``` folder.
 
 ## Requirements
 
